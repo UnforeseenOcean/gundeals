@@ -1,0 +1,24 @@
+brand_alert: false
+parts:
+    aero:
+        - "lower"
+        - "upper"
+    bcm:
+        - "kag"
+        - "bolt carrier"
+        - "mod 3 grip"
+    geissele:
+        - "mk14"
+        - "ssa-e"
+        - "sch"
+        - "mount"
+    midwest:
+        - "ar pistol tube kit"
+        - "g3 lightweight lwm-series"
+    sb_tactical:
+        - "sbm4"
+    vortex:
+        - "red dot"
+sites:
+    - https://gun.deals/today
+    # - https://ar15discounts.com/
